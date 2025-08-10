@@ -16,8 +16,6 @@ HALU-Net is a novel lightweight U-Net architecture designed for efficient gastro
 
 ## Architecture
 
-![HALU-Net Architecture](assets/architecture.jpeg)
-
 HALU-Net incorporates two main innovations:
 
 1. **Lightweight Encoder-Decoder**: Uses depthwise separable convolutions (DSC) to significantly reduce parameters while maintaining performance
